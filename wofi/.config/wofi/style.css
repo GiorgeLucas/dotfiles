@@ -1,0 +1,51 @@
+* {
+    outline-style: none;
+    border: none;
+    box-shadow: none;
+    border-style: none;
+}
+
+window {
+    font-size: 18px;
+    border: 2px solid #080808;    
+    background-color: #080808;
+}
+
+#input {
+    border: none;
+    box-shadow: none;
+    color: white;
+    background-color: #080808;
+    margin: 5px;
+}
+
+#inner-box {
+    border: none;
+    background-color: #080808;
+}
+
+#outer-box {
+    border: none;
+    background-color: #080808;
+}
+
+#scroll {
+    margin: 0px;
+    border: none;
+}
+
+#text {
+    margin: 5px;
+    border: none;
+    color: #d8dee9;
+}
+
+#text:selected {
+    color: #080808;
+}
+
+#entry:selected {
+    background-color: white;
+    background: linear-gradient(90deg, #bbffdd, #dd77ff);
+    color: #080808;
+}
