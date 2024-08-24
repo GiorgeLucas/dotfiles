@@ -145,6 +145,20 @@ button:hover {
     font-size: 16px;
 }
 
+#custom-wl-gammarelay-temperature {
+    background-color: #000000;
+    padding: 2px 10px 2px 10px;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
+#custom-wl-gammarelay-brightness {
+    background-color: #000000;
+    padding: 2px 10px 2px 10px;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
 #clock {
     background-color: #000000;
     padding: 2px 10px 2px 10px;
